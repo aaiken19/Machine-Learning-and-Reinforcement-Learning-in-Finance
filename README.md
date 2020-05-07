@@ -1,2 +1,1 @@
-# Machine-Learning-and-Reinforcement-Learning-in-Finance
-Exercises for Coursera Sepcialization
+# Machine-Learning-and-Reinforcement-Learning-in-Financ
